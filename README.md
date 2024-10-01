@@ -14,6 +14,7 @@
     <p><i>I am persuing B.tech from Shivalik College of Engineering , Dehradun.</i></p>
     <p>Web Development and Deep understanding in C++ language in Explorin🚀.</p>
     <p>I love to learn new things for deep knownledge in different field. </p>
+    <a href="#Contacts"><p>Contact with me</p></a>
     <hr>
     <h2>Education</h2>
     <table border="">
@@ -37,7 +38,7 @@
       </tr>
         
     </table>
-
+     <a href="collegesub.html"><p>College Subject</p></a>
     <h2>Achivement</h2>
     <p>Better understanding of <b>C</b> & <b>C++</b>, <b>Python</b>, <b>Web Development</b>, Bsic knowledge of <b>DSA</b>.</p>
      
@@ -57,16 +58,16 @@
 
     <hr>
 
-    <h3>Contacts</h3>
+   <h3 id="Contacts">Contacts</h3>
     <ul>
         <li>
-    <p>Email- kumarvivek8034@gmail.com</p>
+   <p>Email-<a href="Mail to this e-mail: kumarvivek8034@gmail.com">kumarvivek8034@gmail.com</a></p>
         </li>
     <li>
-    <p>Phone- 8578985461</p> 
+    <p><a href="tel:+918578985461">Phone- 8578985461</a></p>  
     </li>
         <li>
-    <p>Github- github.com/Vivek85789</p>
+    <p>Github- <a href="http://www.github.com/Vivek85789">Github</a></p>
         </li>
     </ul>
 
